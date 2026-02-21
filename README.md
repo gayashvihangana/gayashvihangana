@@ -86,12 +86,6 @@ const gayashVihangana = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/3B82F6/gayashvihangana" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-
 ![](https://raw.githubusercontent.com/gayashvihangana/gayashvihangana/output/github-contribution-grid-snake-dark.svg)
 
 </div>
