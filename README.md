@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm Gayashvi Hangana
+# 👋 Hey there! I'm Gayash Vihangana
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" />
 
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```typescript
-const gayashvi = {
+const gayashVihangana = {
     location: "🌍 Earth",
     currentFocus: "Building scalable applications",
     interests: ["Web Development", "Cloud Computing", "Open Source"],
@@ -69,20 +69,14 @@ const gayashvi = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashvihangana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashvihangana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayashvihangana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gayashvihangana&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayashvihangana&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayashvihangana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashvihangana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
 
 </div>
 
@@ -117,16 +111,6 @@ const gayashvi = {
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gayashvihangana.dev)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gayashvihangana)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=gayashvihangana&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF)
 
 </div>
 
