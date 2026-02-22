@@ -86,12 +86,6 @@ const gayashVihangana = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/3B82F6/gayashvihangana" alt="GitHub Contribution Graph" />
-
-</div>
-
-<div align="center">
-
 ![](https://raw.githubusercontent.com/gayashvihangana/gayashvihangana/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -125,7 +119,7 @@ const gayashVihangana = {
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashvihangana)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gayashvihangana)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gayashvihangana.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashvihangana@gmail.com)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gayashvihangana)
 
 </div>
