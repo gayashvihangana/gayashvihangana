@@ -86,6 +86,8 @@ const gayashVihangana = {
 
 <div align="center">
 
+[![Gayash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gayashvihangana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://raw.githubusercontent.com/gayashvihangana/gayashvihangana/output/github-contribution-grid-snake-dark.svg)
 
 </div>
