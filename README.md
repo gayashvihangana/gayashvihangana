@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:3B82F6,100:1e3a8a&text=<%20Gayash%20Vihangana%20/>&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=30&height=200&desc=Full%20Stack%20Developer%20|%20Code%20Enthusiast&descSize=20&descAlign=50&descAlignY=52&rotate=0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&text=👨‍💻%20Gayash%20Vihangana&fontColor=00FF41&fontSize=60&fontAlign=50&fontAlignY=50&height=200&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=20&descAlign=50&descAlignY=65&animation=twinkling" />
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" />
 
