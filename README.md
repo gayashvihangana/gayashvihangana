@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&text=👨‍💻%20Gayash%20Vihangana&fontColor=00FF41&fontSize=60&fontAlign=50&fontAlignY=50&height=200&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=20&descAlign=50&descAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayash%20Vihangana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40"/>
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" />
 
@@ -175,3 +175,5 @@ const gayashVihangana = {
 **"The only way to do great work is to love what you do."** - Steve Jobs
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
