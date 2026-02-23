@@ -1,12 +1,12 @@
 <div align="center">
-  
-# 👋 Hey there! I'm Gayash Vihangana
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayash%20Vihangana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=51&descAlign=50"/>
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -27,7 +27,7 @@ const gayashVihangana = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +63,7 @@ const gayashVihangana = {
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Statistics
 
@@ -80,7 +80,26 @@ const gayashVihangana = {
 
 </div>
 
----
+### 📊 Detailed GitHub Metrics
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayashvihangana&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayashvihangana&theme=tokyonight" alt="Commits by Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayashvihangana&theme=tokyonight" alt="Stats" />
+
+</div>
+
+### ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+[![Gayash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gayashvihangana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF)](https://wakatime.com/@gayashvihangana)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Graph
 
@@ -92,7 +111,7 @@ const gayashVihangana = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 
@@ -102,7 +121,20 @@ const gayashVihangana = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📝 Recent GitHub Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+[![Gayash's github activity](https://github-readme-activity-graph.vercel.app/graph?username=gayashvihangana&theme=react-dark&hide_border=true&area=true)](https://github.com/gayashvihangana)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 What I'm Currently Working On
 
@@ -112,7 +144,7 @@ const gayashVihangana = {
 - 💬 Ask me about anything tech-related
 - ⚡ Always exploring new technologies
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
 
@@ -126,7 +158,7 @@ const gayashVihangana = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Random Dev Quote
 
@@ -136,7 +168,7 @@ const gayashVihangana = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -148,10 +180,12 @@ const gayashVihangana = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
 **"The only way to do great work is to love what you do."** - Steve Jobs
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
