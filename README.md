@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1 style="font-family: 'Courier New', Courier, monospace; font-size: 72px; font-weight: bold; color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00; letter-spacing: 3px; margin-bottom: 20px; line-height: 1.3;">
+<h1 style="font-family: 'Courier New', Courier, monospace; font-size: 72px; font-weight: bold; color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00; letter-spacing: 3px; margin-bottom: 20px;">
   Hey there, I'm Gayash Vihangana
 </h1>
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" style="margin-top: 10px; margin-bottom: 30px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" style="margin-top: 10px; margin-bottom: 10px;" />
 
 </div>
 
