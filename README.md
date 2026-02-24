@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="font-family: 'Courier New', Courier, monospace; font-size: 72px; font-weight: bold; color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00; letter-spacing: 5px;">
+<h1 style="font-family: 'Courier New', Courier, monospace; font-size: 96px; font-weight: bold; color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00; letter-spacing: 5px;">
   &lt;/&gt; GAYASH VIHANGANA &lt;/&gt;
 </h1>
   
