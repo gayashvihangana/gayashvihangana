@@ -1,14 +1,16 @@
 <div align="center">
 
-<h1 style="font-family: 'Courier New', Courier, monospace; font-size: 56px; font-weight: bold; color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00; letter-spacing: 3px; margin-bottom: 30px; line-height: 1.2;">
+<h1 style="font-family: 'Courier New', Courier, monospace; font-size: 72px; font-weight: bold; color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00; letter-spacing: 3px; margin-bottom: 20px; line-height: 1.3;">
   Hey there, I'm Gayash Vihangana
 </h1>
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" style="margin-top: 10px; margin-bottom: 40px;" />
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #00FF00, transparent); margin: 40px 0;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" style="margin-top: 10px; margin-bottom: 30px;" />
 
 </div>
+
+<br>
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #00FF00, transparent);" />
+<br>
 
 ## 🚀 About Me
 
