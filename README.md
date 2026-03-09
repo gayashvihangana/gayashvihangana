@@ -90,6 +90,20 @@ const gayashVihangana = {
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
 <br>
 
+## ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/3bb16a82-9d97-411e-85f3-47c5760a6510.svg?style=for-the-badge)](https://wakatime.com/@3bb16a82-9d97-411e-85f3-47c5760a6510)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=3bb16a82-9d97-411e-85f3-47c5760a6510&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
+
+</div>
+
+<br>
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
+<br>
+
 ## 📈 Contribution Graph
 
 <div align="center">
