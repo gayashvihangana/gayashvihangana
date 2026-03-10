@@ -71,7 +71,7 @@ const gayashVihangana = {
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
 <br>
 
-## 📊 GitHub Statistic
+## 📊 GitHub Statistics
 
 <div align="center">
   
