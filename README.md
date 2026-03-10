@@ -75,8 +75,8 @@ const gayashVihangana = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashvihangana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashvihangana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-pi-two-89.vercel.app/api?username=gayashvihangana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-pi-two-89.vercel.app/api/top-langs/?username=gayashvihangana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&cache_seconds=86400"/>
 
 </div>
 
