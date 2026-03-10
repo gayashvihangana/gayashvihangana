@@ -82,7 +82,7 @@ const gayashVihangana = {
 
 <div align="center">
   
-[![GitHub Strek](https://github-readme-streak-stats.herokuapp.com/?user=gayashvihangana&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayashvihangana&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
 
 </div>
 
