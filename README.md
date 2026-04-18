@@ -96,7 +96,7 @@ const gayashVihangana = {
 
 [![wakatime](https://wakatime.com/badge/user/3bb16a82-9d97-411e-85f3-47c5760a6510.svg?style=for-the-badge)](https://wakatime.com/@gayashvihangana)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gayashvihangana&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats-pi-two-89.vercel.app/api/wakatime?username=gayashvihangana&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact&cache_seconds=86400&v=20260418" alt="WakaTime Stats" />
 
 </div>
 
