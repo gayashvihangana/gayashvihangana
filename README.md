@@ -2,7 +2,7 @@
 
 # Gayash Vihangana
 
-**I fix phones. I build software.**
+**I build software. I fix phones.**
 
 </div>
 
@@ -18,17 +18,11 @@
 
 <br>
 
-> 📱 I run a small phone repair business — **40+ repairs** and counting.<br>
-> 💻 Now I build the software I wish my shop had.
-
-<br>
-
 ## ⚡ What I'm into
 
 - 💳 **Wallet & Payments** owner in **Fixy**, a 7-person startup project
 - 🌾 Hosting & DevOps for **AgriTech Connect**
 - 🔧 Building **Mobilux**, a repair-shop management platform
-- 🧠 Solving problems every day in [`js-practice`](https://github.com/gayashvihangana/js-practice)
 
 <br>
 
@@ -51,7 +45,6 @@
 | 💳 | **Fixy** | Service platform turning into a startup — I own the wallet, ledger & commissions |
 | 🌾 | **AgriTech Connect** | Bilingual agriculture platform · Spring Boot · React · PostGIS |
 | 🔧 | **Mobilux** | Repair-shop manager born from my own business |
-| 🧠 | **[js-practice](https://github.com/gayashvihangana/js-practice)** | Daily JavaScript & SQL problem solving |
 
 </div>
 
