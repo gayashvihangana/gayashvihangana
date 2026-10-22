@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Gayash Vihangana" width="100%" />
+# Gayash Vihangana
+
+**I fix phones. I build software.**
 
 </div>
 
@@ -8,9 +10,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=CS+Undergrad+%40+UCSC+%F0%9F%87%B1%F0%9F%87%B0;Full-stack+Developer;Owner+of+Wallet+%26+Payments+%40+Fixy;Repair+shop+owner+%E2%86%92+software+builder" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/gayashvihangana"><img src="assets/linkedin.svg" alt="LinkedIn" height="48" /></a>&nbsp;
-<a href="mailto:gayashvihangana@gmail.com"><img src="assets/email.svg" alt="Email" height="48" /></a>&nbsp;
-<img src="assets/open.svg" alt="Open to SE internships" height="48" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashvihangana)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashvihangana@gmail.com)
+![Open to internships](https://img.shields.io/badge/Open%20to-SE%20Internships-22C55E?style=for-the-badge)
 
 </div>
 
