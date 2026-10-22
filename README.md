@@ -1,193 +1,134 @@
 <div align="center">
 
-<h1 style="font-family: 'Courier New', monospace; font-size: 48px; color: #FFF;">Hey, I'm Gayash Vihangana</h1>
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Things!" alt="Typing SVG" style="margin-top: 10px;" />
+# Gayash Vihangana
+
+**Computer Science undergraduate at UCSC · Full-stack developer · Phone repair business owner**
+
+Building practical software for real problems — from a repair shop counter to a startup's payment system.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gayashvihangana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashvihangana)
+[![Email](https://img.shields.io/badge/Email-gayashvihangana%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:gayashvihangana@gmail.com)
+![Location](https://img.shields.io/badge/Colombo%2C%20Sri%20Lanka-1F2937?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Open%20to-SE%20internships-16A34A?style=flat-square)
 
 </div>
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #00FF00, transparent);" />
-<br>
+---
 
-## 🚀 About Me
+### About
 
-```typescript
-const gayashVihangana = {
-    location: "🌍 Earth",
-    currentFocus: "Building scalable applications",
-    interests: ["Web Development", "Cloud Computing", "Open Source"],
-    funFact: "I debug with console.log and I'm not ashamed 😄",
-    learning: ["Advanced System Design", "DevOps", "AI/ML"],
-    askMeAbout: ["Web Dev", "Tech", "Software Architecture"]
-};
-```
+I'm a third-year Computer Science student at the **University of Colombo School of Computing (UCSC)**, focused on backend and full-stack development.
 
-<div align="center">
-  
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+Since 2023 I've also run my own **mobile phone repair business** — 40+ repairs, from diagnosing faults to sourcing parts on a tight budget and explaining the fix to customers. That work shapes how I build software: understand the real problem first, keep it simple, and make it reliable for the person using it.
 
-</div>
+### What I bring
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
+- **Ownership of critical features** — I own the Wallet & Payments module of a 7-person startup project, the part of the system where mistakes cost real money.
+- **Product thinking from running a business** — I build tools for problems I've lived, like managing repair jobs, parts and payments.
+- **Team delivery** — pull requests, code reviews and planned sprints with shared deadlines in two active team projects.
+- **Consistent problem solving** — daily DSA and SQL practice, tracked in [`js-practice`](https://github.com/gayashvihangana/js-practice).
+- **Organising and communication** — IEEE Student Branch of UCSC program team (2024–25), helped run the CodeQuest hackathon.
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Featured work
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Fixy** · *Industry Project, Startup Track*
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+A service platform being built by a 7-member team and moving toward a real startup. I own **Wallet & Payments**: the transaction ledger, balances, commission calculation and transaction history, and the payment-gateway design (PayHere, for local LKR payments).
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
+`Team of 7` `Payments` `Code reviews` · *private repo*
 
-## 📊 GitHub Statistics
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats-pi-two-89.vercel.app/api?username=gayashvihangana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats-pi-two-89.vercel.app/api/top-langs/?username=gayashvihangana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&cache_seconds=86400"/>
+**AgriTech Connect** · *University group project*
 
-</div>
+A bilingual (English / Sinhala) agriculture platform for Sri Lanka. I handle **hosting and DevOps** — website hosting, object storage, logs, metrics, error tracking and uptime alerts — plus shared UI components such as the map.
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayashvihangana&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
+`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL + PostGIS` `Cloudflare` · *in development*
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
+**Mobilux** · *Personal product*
 
-## ⏱️ WakaTime Coding Stats
+A repair-shop management platform born from my own business: repair tracking, role-based access for shop staff, and payments in LKR. Built to be sold to other repair shops.
 
-<div align="center">
+`Spring Boot` `Role-based access` · *in development*
 
-[![wakatime](https://wakatime.com/badge/user/3bb16a82-9d97-411e-85f3-47c5760a6510.svg?style=for-the-badge)](https://wakatime.com/@gayashvihangana)
+</td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats-pi-two-89.vercel.app/api/wakatime?username=gayashvihangana&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact&cache_seconds=86400&v=20260418" alt="WakaTime Stats" />
+**js-practice** · *Daily practice*
 
-</div>
+Daily problem solving in JavaScript and SQL (LeetCode-style), committed every day since October 2026.
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
+`JavaScript` `SQL` `DSA` · [view repo →](https://github.com/gayashvihangana/js-practice)
 
-## 📈 Contribution Graph
+</td>
+</tr>
+</table>
 
-<div align="center">
+---
 
-[![Gayash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gayashvihangana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Tech stack
 
-![](https://raw.githubusercontent.com/gayashvihangana/gayashvihangana/output/github-contribution-grid-snake-dark.svg)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,py,html,css&theme=dark" alt="Languages" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,vite,postgres,mongodb&theme=dark" alt="Frameworks and databases" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vscode&theme=dark" alt="Tools" />
+</p>
 
-</div>
+**Languages:** Java · JavaScript · TypeScript · C · Python · SQL
+**Backend:** Spring Boot · Node.js · Express · REST APIs
+**Frontend:** React · Vite · HTML · CSS
+**Databases:** PostgreSQL · MongoDB · MySQL
+**Tools:** Git · GitHub · Linux · Cloudflare
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
+---
 
-## 🏆 GitHub Trophies
+### Education & certifications
 
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=gayashvihangana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+**BSc in Computer Science** — University of Colombo School of Computing (UCSC) · 2024 – 2027 (expected)
 
-</div>
+- IBM (Coursera) — JavaScript Programming Essentials · React Front-End · Node.js & Express Back-End · Node.js & MongoDB
+- Google — Prompting Essentials Specialization
+- Samsung — Mobile Repair Essentials · Customer Care Essentials
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
+---
 
-## 💼 What I'm Currently Working On
-
-- 🔭 Building exciting new projects
-- 🌱 Learning and growing every day
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related
-- ⚡ Always exploring new technologies
-
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
-
-## 📫 Let's Connect!
+### GitHub activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashvihangana)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gayashvihangana)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gayashvihangana.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashvihangana@gmail.com)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gayashvihangana)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-two-89.vercel.app/api?username=gayashvihangana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000&cache_seconds=86400" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats-pi-two-89.vercel.app/api?username=gayashvihangana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&bg_color=00000000&cache_seconds=86400" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-two-89.vercel.app/api/top-langs/?username=gayashvihangana&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&cache_seconds=86400" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats-pi-two-89.vercel.app/api/top-langs/?username=gayashvihangana&layout=compact&hide_border=true&theme=default&bg_color=00000000&cache_seconds=86400" />
+</picture>
 
 </div>
 
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
-
-## 💡 Random Dev Quote
+---
 
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+**Currently:** preparing for Software Engineering internships · building AgriTech Connect and Fixy · practising DSA every day
+
+*Happy to talk about backend development, payments, or fixing phones.*
 
 </div>
-
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
-
-<div align="center">
-  
-### 🎯 Profile Views
-
-![](https://komarev.com/ghpvc/?username=gayashvihangana&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
-### ⭐ Show some love by starring repositories you find interesting!
-
-</div>
-
-<br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);" />
-<br>
-
-<div align="center">
-  
-**"The only way to do great work is to love what you do."** - Steve Jobs
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
